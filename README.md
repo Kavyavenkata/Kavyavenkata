@@ -1,15 +1,44 @@
-Hi, I'm Kavya!
+h1 align="center">Hi, I'm Kavya! 👋</h1>
 
-I'm a Data Analyst with 3+ years of experience transforming complex data into actionable insights across healthcare, pharmaceutical, and financial domains. I specialize in using Python, R, SQL, and cloud tools like AWS and Snowflake to deliver scalable analytics solutions. I'm passionate about building clean, efficient data pipelines, designing insightful dashboards, and solving real-world problems through data.
-## 🔧 Tech Stack
-- *Languages*: Python, R, SQL
-- *Data Visualization*: Power BI, Tableau, Looker
-- *ETL/Workflow Tools*: AWS Glue, Apache Airflow, dbt
-- *Cloud Platforms*: AWS (S3, Redshift, Glue, Lambda), Snowflake
-- *Databases*: PostgreSQL, MySQL, Oracle, MongoDB
-- *Machine Learning*: Scikit-learn, TensorFlow, Statistical Modeling
-- *Other Tools*: Git, GitHub, JIRA, Confluence
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Kavyavenkata?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/Kavyavenkata?style=social" />
+</p>
 
-## 📬 Let's Connect
-- *LinkedIn*: [Kavya's Profile](http://www.linkedin.com/in/kavya-venkata-485351188)
-- *Email*: venkatakavya687@gmail.com
+<p align="center">
+  <em>Data Analyst | AWS Enthusiast | Dashboard Designer | Pythonista</em>
+</p>
+
+---
+
+### 🔍 About Me
+- 💻 Data Analyst with 3+ years of experience in healthcare, pharma, and finance  
+- 📊 Passionate about turning raw data into impactful decisions  
+- ☁️ Skilled in AWS (Glue, Lambda, S3, Redshift) and data visualization (Power BI, Tableau)  
+- ✨ Loves building clean, scalable pipelines and dashboards  
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**Visualization & Tools**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=google&logoColor=white)
+
+**Cloud & Pipelines**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](http://www.linkedin.com/in/kavya-venkata-485351188)  
+- **Email**: venkatakavya687@gmail.com
