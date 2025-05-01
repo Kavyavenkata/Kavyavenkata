@@ -10,11 +10,6 @@ I'm a Data Analyst with 3+ years of experience transforming complex data into ac
 - *Machine Learning*: Scikit-learn, TensorFlow, Statistical Modeling
 - *Other Tools*: Git, GitHub, JIRA, Confluence
 
-## 📊 Notable Projects
-- *Genomics Data Integration* – Enabled rare disease biomarker discovery through multimodal healthcare data modeling.
-- *Banking Fraud Analytics* – Built fraud detection pipelines and dashboards reducing detection time by 30%.
-- *Customer Segmentation* – Applied clustering to drive personalized marketing and retention strategies.
-
 ## 📬 Let's Connect
 - *LinkedIn*: [Kavya's Profile](http://www.linkedin.com/in/kavya-venkata-485351188)
 - *Email*: venkatakavya687@gmail.com
