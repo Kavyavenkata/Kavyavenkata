@@ -38,14 +38,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🧬 **Genomics Data Integration** – Reduced preprocessing cycles by 50% through modular Python pipelines  
-- 🛡️ **Banking Fraud Detection** – Reduced fraud detection lead time by 30% using AWS Glue & Redshift  
-- 🎯 **Customer Segmentation** – Enabled 22% better campaign targeting via clustering & behavior analysis  
-
----
-
 ### 📫 Let's Connect
 
 - [LinkedIn](http://www.linkedin.com/in/kavya-venkata-485351188)  
